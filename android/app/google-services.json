@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040264039772",
+    "project_id": "promcheckapp",
+    "storage_bucket": "promcheckapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040264039772:android:c0427e82c8c37631c44599",
+        "android_client_info": {
+          "package_name": "com.example.prom_check_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040264039772-3el3a5mh5hfckuqein62jcm5tar7l720.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFuMPhid6UuJYFbpYdyJRMaCSSao_OE_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040264039772-3el3a5mh5hfckuqein62jcm5tar7l720.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
